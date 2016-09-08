@@ -1,5 +1,5 @@
 # Auto Repository Creator
-Creates Repository from command line
+Creates new Repository from command line
 
 ## Download the repository
 
@@ -13,7 +13,6 @@ python3 new_repo.py repo_name private/public
 
 * Python 3.1 or higher
 * Python Selenium Module
-* Mozilla Firefox
-
+* Mozilla Firefox Browser (beware of compatibility issues with __webdriver__)
 
 MIT. Copyright (c) [Nikhil Ranjan](http://nikhilranjan7.github.io)
