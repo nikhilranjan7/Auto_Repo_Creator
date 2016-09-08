@@ -11,7 +11,7 @@ python3 new_repo.py repo_name private/public
 
 ### Requirements:
 
-* Python 3.1 or higher
+* Python 3.4 or higher
 * Python Selenium Module
 * Mozilla Firefox Browser (beware of compatibility issues with __webdriver__)
 
