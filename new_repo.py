@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # new_repo.py - create a new repository with first command line argument as its name and second
 # one to choose between private and public mode.
-# run it like *** python3 new_repo.py repo_name private
+# run it like *** python3 new_repo.py repo_name private/public
 # replace ##username and ##password by your github credentials
 
 from selenium import webdriver
